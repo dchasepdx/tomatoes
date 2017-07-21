@@ -2,7 +2,7 @@
 A simple script to grab rotten tomatoes ratings from all movies of a certain genre.
 To run the script: 
 1. `git clone` the repo and `npm install` to install dependencies.
-2. in `main.js` change the url string to find all movies in your chosen genre. Look for `genre=10` query parameter.
+2. in `main.js` change the url string to find all movies in your chosen genre. Look for `genre=10` query parameter. Change that number to select a different genre.
 3. genres correspond with a number as follows: 
   ```
   Animation = 2
